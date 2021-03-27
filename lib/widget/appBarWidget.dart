@@ -5,7 +5,7 @@ Widget appBarWidget(context) {
   return AppBar(
     elevation: 0.0,
     centerTitle: true,
-    title: Text("APT Products",style: TextStyle(color: Color(0xFF364760),fontSize:16,fontFamily: 'SourceSansProBold')),
+    title: Text("AST Products",style: TextStyle(color: Color(0xFF364760),fontSize:17,fontFamily: 'SourceSansProBold')),
     leading: GestureDetector(
 
       child: Icon(
